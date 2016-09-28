@@ -1,0 +1,11 @@
+body {background-color: #F8ECC2}
+h1 {font-family: Comic Sans MS, cursive, sans-serif;
+  font-size: 500%; text-align: center; color: #009933}
+p {font-family: Lucida; font-size:
+  200%; text-align: left; width: 100%; color: #0f0f0f}
+.a {font-size: 200%; width: 200px; position: absolute;
+    right: 0; bottom: 100px; text-decoration: none;
+    font-style: Lucida; color: #996633}
+.aa {font-size: 200%; width: 200px; position: absolute;
+    right: 0; bottom: 0; text-decoration: none;
+    font-style: Lucida; color: #0066ff}
